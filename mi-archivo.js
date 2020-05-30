@@ -1,1 +1,1 @@
-console.log("Mensaje editado");
+console.log("Archivo editado desde la pc windows 10");
